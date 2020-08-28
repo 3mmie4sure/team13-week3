@@ -4,6 +4,14 @@
  
  
  
+Name: Adeeko Emmanuel
+Track: UIUX
+Summary: Created the ui designs for the landing page and forms for ccensus management system
+project link: https://www.figma.com/file/mlwQthlSKwb73NFtV9BeB7/Census-Management-System-%7C-ECX-Internship-Week-3
+ 
+
+ 
+ 
  
  
  
